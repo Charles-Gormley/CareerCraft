@@ -1,0 +1,151 @@
+
+{
+    "personal_info": {
+      "name": "Charles E. Gormley",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "email": "ceg98@drexel.edu",
+      "phone": "2678443780",
+      "linkedin": "in/charlie-gormley/",
+      "github": "https://github.com/Charles-Gormley"
+    },
+    "summary": "Software Engineer with expertise in Machine Learning, Data Pipelines, and System Architecture, passionate about Entertainment, VR/AR, Geospatial, and FinTech Industries, seeking challenging problems.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Data Science",
+        "minor": "Computer Science, Machine Learning",
+        "institution": "Drexel University",
+        "location": "Philadelphia, PA",
+        "graduation_year": 2024,
+        "gpa": 3.74,
+        "credits_completed": 185
+      },
+      {
+        "degree": "Bachelor of Science in Economics",
+        "institution": "Drexel University",
+        "location": "Philadelphia, PA",
+        "graduation_year": 2024,
+        "gpa": 3.74
+      }
+    ],
+    "skills": {
+      "languages": ["Python", "C++", "GoLang", "R", "MATLAB", "SQL", "JavaScript", "Java", "Bash"],
+      "cloud": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "EC2", "ECS", "Lambda", "AWS Glue", "EMR", "Splunk", "S3", "Amazon Lex", "Amazon Direct Connect"],
+      "machine_learning_deep_learning": ["Sci-Kit Learn", "Tensorflow/Keras", "Pytorch", "Deep Reinforcement Learning", "Transformers", "Sagemaker"],
+      "data_science": ["Pandas", "Numpy", "Scipy", "Stata", "PySpark", "Seaborn", "Matplotlib", "Dash", "Tableau", "Dataiku"],
+      "computer_vision": ["OpenCV", "ORB-SLAM2", "Unreal Engine", "Pose Estimation", "Object Detection"],
+      "nlp": ["Milvus", "Pinecone", "Bert", "HuggingFace", "Replicate", "nltk", "spark-nlp", "OpenAI"],
+      "web": ["Node", "React", "Figma", "Kong", "API development"]
+    },
+    "experience": [
+      {
+        "title": "Software Engineer, Cloud",
+        "company": "Vanguard",
+        "location": "Malvern, PA",
+        "duration": "September 2022 - September 2023",
+        "responsibilities": [
+          "Automated the management of robust cloud infrastructure utilizing technologies such as Docker Containers, Kubernetes, Amazon ECS, EC2, Lambda, Event bridge, RDS, Step Functions, API Gateway, and CloudFormation Stacks.",
+          "Automated the building of scalable cloud infrastructure and distributed systems to operate Vanguard's instance of Kong API Gateway & Kong Konnect, enhancing efficiency.",
+          "Developed automated scripts for lambdas, helper functions inside containers, and user management logic using Golang, Python, Node.js, and Java, ensuring smooth operation and optimal performance.",
+          "Proactively developed internal side-projects aimed at reducing developers' workload and improving efficiency. Notably, implemented bots using Amazon Lex with Microsoft Teams integration to automate internal communication and issue resolution.",
+          "Designed and developed an internal analytics product utilized by over 20 teams, providing actionable insights into the effectiveness of the company's technical documentation.",
+          "Spearheaded efforts to identify and address significant cost overruns in AWS usage, resulting in proposed solutions that automated processes and saved the department approximately $200,000 annually.",
+          "Pioneered the integration of docker container structure tests into the open-source community, automating testing processes and ensuring the reliability of deployments."
+        ]
+      },
+      {
+        "title": "Machine Learning Engineer - Consultant",
+        "company": "Kredit",
+        "location": "New York, NY",
+        "duration": "September 2022 - December 2022",
+        "responsibilities": [
+          "Designed and implemented a comprehensive MLOps workflow, automating the systematic analysis of customer-bot interactions.",
+          "Automated the building of the customer-bot using Amazon Lex, integrating features such as slot types, intents, and external NLP tools to understand and appropriately respond to the user's request.",
+          "Significantly enhanced user experience by automating the boosting of customer engagement with the virtual assistant by 45%, while also achieving an impressive 92% accuracy rate in Natural Language Understanding tasks."
+        ]
+      },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Strados Labs",
+        "location": "Philadelphia, PA",
+        "duration": "September 2021 - April 2022",
+        "responsibilities": [
+        "Automated the orchestration of the data science pipeline to integrate accelerometer and gyroscope data.",
+        "Automated the engineering and fine-tuning of Machine Learning feature generation functions to maximize efficiency.",
+        "Regularly automated the communication of key data science findings to senior executives.",
+        "Automated the ingestion of data from medical devices through IoT devices with AWS IoT services."
+        ]
+    },
+    {
+        "title": "Research Engineer",
+        "company": "Drexel University",
+        "location": "Philadelphia, PA",
+        "duration": "April 2021 - July 2021",
+        "responsibilities": [
+        "Conducted an in-depth analysis of flight data using GIS and advanced data science tools, specifically focusing on the impact of aircraft noise on real estate valuations."
+        ]
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Kredit",
+        "location": "New York, NY",
+        "duration": "September 2020 - April 2021",
+        "responsibilities": [
+        "Developed an in-depth data pipeline to feed and analyze natural language processing.",
+        "Spearheaded the research, creation, programming, and management of Kredit's foundational marketing strategy."
+        ]
+    }
+    ],
+    "projects": [
+    {
+        "title": "Autonomous Drone Research",
+        "description": "Conducting research on UAVs in Microsoft AirSim using Deep Reinforcement Learning for individual motor control and motion. Leveraging Computer Vision and pathing algorithms for optimized navigation.",
+        "date": "September 2023 - Present"
+    },
+    {
+        "title": "Automated Personalized Podcast",
+        "description": "Developing an AI-driven application that curates and summarizes daily news from over 3000 RSS feeds. Utilized advanced machine learning techniques to personalize content for each user.",
+        "date": "June 2023 - Present",
+        "url": "https://www.tokenizedtoast.com/"
+    },
+    {
+        "title": "RaphaAI",
+        "description": "Working with a stealth startup to automate genetics research by building no-code AI interface for backend workflows for genomic researchers.",
+        "date": "August 2023 - February 2024",
+        "url": "http://rapha-ai.com/"
+    },
+    {
+        "title": "Artist Painting Classification",
+        "description": "Conducted exploratory data analysis (EDA) using a diverse set of image filter functions to better understand data characteristics.",
+        "date": "May 2023 - June 2023",
+        "url": "https://github.com/Charles-Gormley/DaVinciVision"
+    }
+    ],
+    "certifications": [
+    {
+        "title": "AWS Certified - Cloud Practitioner",
+        "issuer": "Amazon Web Services",
+        "year": 2023
+    },
+    {
+        "title": "Production Machine Learning Systems",
+        "issuer": "Coursera - Google Developers",
+        "year": 2022
+    }
+    ],
+    "coursework": {
+    "computing_informatics": [
+        "Applied Deep Learning",
+        "Artificial Intelligence",
+        "Computational Photography",
+        "Interactive Computer Graphics",
+        "Game AI Development"
+    ],
+    "business": [
+        "Intermediate Macroeconomics",
+        "International Money & Finance",
+        "Time Series Econometrics",
+        "Data Economics",
+        "Behavioral Economics"
+    ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "personal_info": {
+        "name": "John Smith",
+        "email": "johnsmith@test.com",
+        "phone": "1234567890",
+        "linkedin": "https://www.linkedin.com/in/john-smith/"
+    },
+    "education": [
+        {
+            "school": "Harvard University",
+            "degree": "Bachelor of Science in Data Science (BS Data Science)",
+            "dates": "2021-09-01 to 2025-06-12",
+            "GPA": "3.76"
+        }
+    ],
+    "experiences": [
+        {
+            "company": "DeezNuts",
+            "title": "Machine Learning Engineer Intern",
+            "dates": "4/16/2025 - Present",
+            "details": "- Developed machine learning models to analyze and predict customer behavior, resulting in a 15% increase in sales.\n- Collaborated with cross-functional teams to gather requirements, preprocess data, train models, and deploy solutions.\n- Conducted A/B testing and model evaluation to measure performance and optimize algorithms.\n- Created data pipelines for collecting, cleaning, and storing large datasets from various sources.\n- Presented findings and recommendations to stakeholders, including executives and product managers."
+        },
+        {
+            "company": "Huh LLC",
+            "title": "Computer Vision Researcher",
+            "dates": "12/17/2021 - 4/21/2022",
+            "details": "Conducted research in computer vision algorithms for tasks such as object detection, image classification, and image segmentation.\nImplemented deep learning models using frameworks like TensorFlow or PyTorch.\nCollaborated with multidisciplinary teams to integrate computer vision solutions into real-world applications, such as autonomous vehicles or medical imaging systems."
+        },
+        {
+            "company": "Johnson and Johnson",
+            "title": "Healthcare Data Scientist",
+            "dates": "1/1/2021 - 5/17/2024",
+            "details": "Analyzed healthcare data to derive insights and improve patient outcomes, operational efficiency, and cost-effectiveness.\nDeveloped predictive models for disease diagnosis, patient risk stratification, and treatment recommendation.\nWorked closely with healthcare professionals to understand domain-specific challenges and opportunities in leveraging data science."
+        },
+        {
+            "company": "WebEz.Co",
+            "title": "Full Stack Web Developer,",
+            "dates": "6/2/2024 - 11/17/2024",
+            "details": "Designed and developed full-stack web applications using modern technologies such as HTML5, CSS3, JavaScript, and frameworks like React.js or Angular.\nImplemented RESTful APIs for backend services using Node.js, Express, and MongoDB or SQL databases.\nCollaborated with UI/UX designers to ensure a seamless and intuitive user experience.\nConducted code reviews, testing, and debugging to ensure high-quality, maintainable code."
+        },
+        {
+            "company": "JKL",
+            "title": "Backend Developer",
+            "dates": "12/14/2024 - 3/12/2025",
+            "details": "Built and maintained scalable and secure backend systems using server-side technologies such as Node.js, Python (Django/Flask), or Java (Spring Boot).\nDesigned and implemented RESTful APIs for communication between frontend and backend systems.\nManaged databases (e.g., MySQL, PostgreSQL, MongoDB) and implemented data models, queries, and optimizations.\nImplemented authentication, authorization, and security measures to protect against common web vulnerabilities."
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Cloud Computing Fundamentals",
+            "date": "August 15, 2022",
+            "url": "https://example.com/cloud-computing-fundamentals-certificate"
+        },
+        {
+            "name": "Artificial Intelligence Essentials",
+            "date": "June 28, 2023",
+            "url": "https://example.com/ai-essentials-certificate"
+        },
+        {
+            "name": "Financial Data Analysis",
+            "date": "April 12, 2021",
+            "url": "https://example.com/financial-data-analysis-certificate"
+        },
+        {
+            "name": "Healthcare Informatics Specialist",
+            "date": "January 30, 2025",
+            "url": "https://example.com/health-informatics-certificate"
+        },
+        {
+            "name": "Data Science for Finance",
+            "date": "December 8, 2020",
+            "url": "https://example.com/data-science-finance-certificate"
+        }
+    ],
+    "skills": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "C++",
+        "C#",
+        "Swift",
+        "Go",
+        "R",
+        "SQLite",
+        "MySQL",
+        "MongoDB",
+        "Machine Learning",
+        "Data Mining",
+        "Data Analysis",
+        "Data Structures",
+        "Data Visualization",
+        "Artificial Intelligence (AI)",
+        "Media Relations",
+        "Crisis Communication",
+        "Community Relations",
+        "Sustainability",
+        "Investor Relations",
+        "External Communication",
+        "Regulatory Compliance",
+        "Corporate Culture",
+        "Data Privacy",
+        "Employee Morale",
+        "Business Ethics",
+        "Corporate Governance",
+        "Corporate Social Responsibility (CSR)"
+    ]
+}
