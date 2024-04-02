@@ -1,0 +1,145 @@
+{
+    "name": "Charles E. Gormley",
+    "location": "United States",
+    "email": "ceg98@drexel.edu",
+    "phone": "2678443780",
+    "linkedin": "https://www.linkedin.com/in/charlesedwardgormley/",
+    "github": "https://github.com/Charles-Gormley",
+    "summary": "Software Engineer specialized in Machine Learning Engineering interested in Data Ingestion, Data Pipelines, Deep Learning, Model Tuning, Software Engineering, System Architecture, Cloud Workflows, Computer Vision, Data Engineering, Performance Optimization, API Infrastructure, & solving the hardest problems. Interested in Entertainment, Advertising, Virtual/Artificial Reality, Geospatial, Trading & FinTech Industries",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Data Science, Bachelor of Science in Economics",
+        "minor": "Computer Science",
+        "institution": "Drexel University",
+        "location": "Philadelphia, PA",
+        "duration": "2019 - 2024",
+        "gpa": 3.74,
+        "details": "Completed 185 credits for my undergraduate degree."
+      }
+    ],
+    "skills": {
+      "languages": ["Python", "C++", "R", "MATLAB", "SQL", "JavaScript", "Java", "Bash"],
+      "cloud": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "EC2", "ECS", "Lambda", "AWS Glue", "EMR", "Splunk"],
+      "machinelearning": ["Sci-Kit Learn", "Tensorflow/Keras", "Pytorch", "Deep Reinforcement Learning", "Transformers", "Sagemaker"],
+      "datascience": ["Pandas", "Numpy", "Scipy", "Stata", "PySpark", "Seaborn", "Matplotlib", "Dash", "Tableau"],
+      "computervision": ["OpenCV", "ORB-SLAM2", "Unreal Engine", "Pose Estimation", "Object Detection"]
+    },
+    "experience": [
+      {
+        "title": "Cloud Engineer",
+        "company": "Vanguard",
+        "duration": "September 2022 - September 2023",
+        "location": "Malvern, PA",
+        "details": [
+          "Offered an extension to my Drexel Co-op to come back for another 6 months contract.",
+          "Developed and managed critical cloud infrastructure which handled requests with: retail financial trading, private equity transactions, financial crimes communication, Vanguard Telephones, and other critical business functions through Docker Containers, Kubernetes, Amazon ECS, EC2, Lambda, Event bridge, RDS, Step Functions, API Gateway, & Cloudformation Stacks.",
+          "Built scalable cloud infrastructure and distributed systems to run Vanguard's instance of Kong API Gateway & Kong Konnect. Created docker images and CloudFormation scripts to handle production-ready infrastructure.",
+          "Established a Data-Driven Internal Product used by 20+ teams: Designed and developed an internal analytics product featuring an intuitive dashboard. This tool provided actionable insights into the effectiveness of the company's internal technical documentation. The product quickly gained traction, being adopted by 24 teams within the first 6 months.",
+          "Led Cost Optimization Efforts: Identified and addressed a significant cost overrun in AWS usage linked to abstracted FaaS Cloud Formation Templates with the help of AWS Cost Explorer. Developed and proposed a streamlined solution that ultimately saved the department approximately $200,000 annually.",
+          "Pioneered Docker Container Structure Tests Integration: Spearheaded an initiative to incorporate docker container structure tests into the open source community with the help of Vanguard. Integrated the docker container structure tests seamlessly through the Bamboo CI/CD Pipeline."
+        ]
+      },
+      {
+        "title": "Machine Learning Engineer - Consultant",
+        "company": "Kredit",
+        "duration": "September 2022 - December 2022",
+        "location": "New York, NY",
+        "details": [
+          "Designed and implemented a comprehensive MLOps workflow, providing a systematic analysis of customer-bot interactions. This structured approach informed developers on editing strategies for future bot iterations, enabling them to adjust parameters and conversational branches more effectively.",
+          "Significantly enhanced user experience by boosting customer engagement with the virtual assistant by 45%, while also achieving an impressive 92% accuracy rate in Natural Language Understanding tasks."
+        ]
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Strados Labs",
+        "duration": "September 2021 - April 2022",
+        "location": "Philadelphia, PA",
+        "details": [
+          "Co-op with Drexel University",
+          "Orchestrated the data science pipeline to integrate accelerometer and gyroscope data. This process involved meticulous data cleaning, comprehensive exploratory data analysis, inventive feature engineering, efficient feature optimization, strategic model selection, and meticulous model tuning. My efforts culminated in a deployment analysis process for our XGBoost & RFC cough algorithm, boosting cough classification accuracy from an initial 87% to a commendable 97%.",
+          "Engineered and fine-tuned Machine Learning feature generation functions to maximize efficiency. By leveraging memoization, vectorization, parallel computing, AWS, and efficient data structures, I significantly enhanced the system's speed and computational usage, achieving a staggering 19x improvement in runtime.",
+          "Regularly communicated key data science findings to senior executives, including the COO, CTO, CEO, and other managerial leaders within the organization. Leveraging the agile framework, I elucidated ongoing data science product progress, potential obstacles, and innovative product ideas."
+        ]
+      },
+      {
+        "title": "Research Engineer",
+        "company": "Drexel University",
+        "duration": "April 2021 - July 2021",
+        "location": "Philadelphia, PA",
+        "details": [
+          "Conducted an in-depth analysis of flight data using GIS and advanced data science tools, specifically focusing on the impact of aircraft noise on real estate valuations. This research provided valuable insights into environmental factors influencing property prices."
+        ]
+      },
+      {
+        "title": "Software & Business Co-op",
+        "company": "Kredit",
+        "duration": "September 2020 - April 2021",
+        "location": "New York, NY",
+        "details": [
+          "Co-op with Drexel University",
+          "Spearheaded the research, creation, programming, and management of Kredit's foundational marketing strategy. This comprehensive approach has fueled an impressive 47x growth since its implementation, underscoring the strategy's effectiveness and transformative impact."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Automated Personalized Newsletter",
+        "role": "Founder",
+        "url": "https://www.tokenizedtoast.com/",
+        "duration": "June 2023 - Present",
+        "details": [
+          "Developing an AI-driven application that curates and summarizes daily news from over 3000 RSS feeds. Utilized advanced machine learning techniques to personalize content for each user, significantly increasing user engagement and satisfaction.",
+          "Implementing an efficient automation system using Python and AWS services (EC2, S3). The system expertly manages high-volume data, successfully uploading daily content to an S3 bucket and managing EC2 resources.",
+          "Pioneering a multi-platform approach to news delivery, offering users a concise newsletter for a quick read, as well as personalized news podcasts for a deeper understanding of topics. This versatile design catered to diverse user preferences and enhanced the overall user experience.",
+          "Leveraging Milvus Vector Database in conjunction with unsupervised clustering, named entity recognition, and sentiment analysis. Integrated a pipeline using BERT encoding to intelligently recommend personalized content to users."
+        ]
+      },
+      {
+        "title": "RaphaAI",
+        "role": "CTO",
+        "url": "http://rapha-ai.com/",
+        "duration": "August 2023 - Present",
+        "details": [
+          "Working with a stealth startup to automate genetics research by building no-code tools for geneticists in clinical and research environments",
+          "Developed an initial MVP, created a feature roadmap, managing 3 other engineers.",
+          "Awarded finalist in a Philadelphia entrepreneurship competition."
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified - Cloud Practitioner",
+        "issuer": "Amazon Web Services",
+        "year": 2023
+      },
+      {
+        "name": "Production Machine Learning Systems",
+        "issuer": "Coursera - Google Developers",
+        "year": 2022
+      }
+    ],
+    "courses": [
+      {
+        "name": [
+          "Applied Deep Learning",
+          "Artificial Intelligence",
+          "Computational Photography",
+          "Interactive Computer Graphics",
+          "Game AI Development"
+        ],
+        "institution": "Drexel University: College of Computing & Informatics",
+        "year": 2023
+      },
+      {
+        "name": [
+          "Intermediate Macroeconomics",
+          "International Money & Finance",
+          "Time Series Econometrics",
+          "Data Economics",
+          "Behavioral Economics"
+        ],
+        "institution": "Drexel University: Lebow College of Business",
+        "year": 2023
+      }
+    ]
+  }
